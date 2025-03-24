@@ -5,97 +5,146 @@
 "info": "bY AdriDeCai",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
-"stations":
+"groups": 
 	[
-
-	{
-	"name": "CAPITULO 1",
-        "image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-        "url": "https://filemoon.sx/d/5t0i5dsunoch/1923_1x1_1923_espa_ol.mp4  ",
-       	"info": "[Español 2021]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 2",
-        "image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-        "url": "https://filemoon.sx/d/4kg4uz3q1qni/1923_1x2_Trono_vac_o_de_la_naturaleza_espa_ol.mp4",
-       	"info": "[Español 2021]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 3",
-        "image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-        "url": "https://filemoon.sx/d/t0248m6b4j3r/1923_1x3_La_guerra_ha_vuelto_a_casa_espa_ol.mp4",
-       	"info": "[Español 2021]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 4",
-        "image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-        "url": "https://filemoon.sx/d/qiynff6g62ul/1923_1x4_La_guerra_y_la_marea_turquesa_espa_ol.mp4",
-       	"info": "[Español 2021]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 5",
-        "image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-        "url": "https://filemoon.sx/d/5h2noorgm44d/1923_1x5_Fantasma_de_Zebrina_espa_ol.mp4",
-       	"info": "[Español 2021]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 6",
-        "image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",  
-        "url": "https://filemoon.sx/d/wme5gt1lkil5/1923_1x6_Un_oc_ano_m_s_cerca_del_destino_espa_ol.mp4",
-       	"info": "[Español 2021]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 7",
-        "image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-        "url": "https://filemoon.sx/d/u69b1mgtkza0/1923_1x7_La_regla_de_los_quinientos_espa_ol.mp4",
-       	"info": "[Español 2021]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
-	"name": "CAPITULO 8",
-        "image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-        "url": "https://filemoon.sx/d/9pbx3aw5c9oo/1923_1x8_Nada_que_perder_espa_ol.mp4",
-       	"info": "[Español 2021]",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	}
-
-]
-}
+	  {
+		"name": "Temporada 01",
+		"image": "https://pics.filmaffinity.com/Asai_nos_ven_Miniserie_de_TV-652956599-large.jpg",
+		"imageScale": "",
+		"info": "",
+		"stations": 
+		[
+		  {
+			"name": "CAPITULO 1",
+			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+			"url": "https://heatherwholeinvolve.com/tixirqn8nrq0 ",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 2",
+			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+			"url": "https://heatherwholeinvolve.com/pfzsk4dj056v",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 3",
+			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+			"url": "https://heatherwholeinvolve.com/cjekokvblntu",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 4",
+			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+			"url": "https://heatherwholeinvolve.com/tzkad0cfun3b",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 5",
+			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+			"url": "https://heatherwholeinvolve.com/inbz6nmdz0sj",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 6",
+			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+			"url": "https://heatherwholeinvolve.com/lxhkkfy8uhpv",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 7",
+			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+			"url": "https://heatherwholeinvolve.com/10ek3hbwkx9x",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 8",
+			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+			"url": "https://heatherwholeinvolve.com/rn8dvur7kpmn",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  }
+		]
+	  },
+	  {
+		"name": "Temporada 02",
+		"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
+		"imageScale": "",
+		"info": "",
+		"stations": 
+		[
+		  {
+			"name": "CAPITULO 1",
+			"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
+			"url": "https://heatherwholeinvolve.com/wa6kss1lpviy",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 2",
+			"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
+			"url": "https://heatherwholeinvolve.com/svsjjp2z0y2b",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 3",
+			"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
+			"url": "https://heatherwholeinvolve.com/wka89af92giv",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  }
+		]
+	  }
+	]
+  }
