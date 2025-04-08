@@ -143,6 +143,61 @@
 			"online": "true",
 			"userAgent": "PlusMediaPlayer/0.0.9",
 			"import": false
+		  },
+		  {
+			"name": "CAPITULO 4",
+			"image": "",
+			"url": "",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 5",
+			"image": "",
+			"url": "",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 6",
+			"image": "",
+			"url": "",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 7",
+			"image": "",
+			"url": "",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
+		  },
+		  {
+			"name": "CAPITULO 8",
+			"image": "",
+			"url": "",
+			"info": "[Español]",
+			"embed": "",
+			"isHost": "true",
+			"online": "true",
+			"userAgent": "PlusMediaPlayer/0.0.9",
+			"import": false
 		  }
 		]
 	  }
