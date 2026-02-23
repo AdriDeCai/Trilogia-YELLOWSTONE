@@ -112,102 +112,100 @@
 }
 ]
 },
-	  {
-		"name": "Temporada 02",
-		"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
-		"imageScale": "",
-		"info": "",
-		"stations": 
-		[
-		  {
-			"name": "CAPITULO 1",
-			"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
-			"url": "https://heatherwholeinvolve.com/wa6kss1lpviy",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 2",
-			"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
-			"url": "https://heatherwholeinvolve.com/svsjjp2z0y2b",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 3",
-			"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
-			"url": "https://heatherwholeinvolve.com/wka89af92giv",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 4",
-			"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
-			"url": "https://listeamed.net/v/eL2157MaGWWErw4",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 5",
-			"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
-			"url": "https://listeamed.net/v/dNjgOlAb0dq59Wn",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 6",
-			"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
-			"url": "https://listeamed.net/v/l4vexvz8YMVx8B9",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 7",
-			"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
-			"url": "https://listeamed.net/v/njJYOdZGkz1xe9o",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 8",
-			"image": "",
-			"url": "https:",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  }
-		]
-	  }
-	]
-  }
+
+{
+"name": "Temporada 02",
+"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
+"imageScale": "",
+"info": "",
+"stations": 
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/dpq4tqh5a8b4/1923-2x01",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/6gl62awk57cl/1923-2x02",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/qy3ylyqpasn3/1923-2x03",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/5z71hynk8sur/1923-2x04",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/bmkny2dt91ab/1923-2x05",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/5iebdlh662c3/1923-2x06",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/u2rjkbl01lk8/1923-2x07-fin",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+}
+
+]
+}
