@@ -6,104 +6,112 @@
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
 "telegram": "@YIsus_mEx",
 "groups": 
-	[
-	  {
-		"name": "Temporada 01",
-		"image": "https://pics.filmaffinity.com/Asai_nos_ven_Miniserie_de_TV-652956599-large.jpg",
-		"imageScale": "",
-		"info": "",
-		"stations": 
-		[
-		  {
-			"name": "CAPITULO 1",
-			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-			"url": "https://heatherwholeinvolve.com/tixirqn8nrq0",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 2",
-			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-			"url": "https://heatherwholeinvolve.com/pfzsk4dj056v",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 3",
-			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-			"url": "https://heatherwholeinvolve.com/cjekokvblntu",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 4",
-			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-			"url": "https://heatherwholeinvolve.com/tzkad0cfun3b",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 5",
-			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-			"url": "https://heatherwholeinvolve.com/inbz6nmdz0sj",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 6",
-			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-			"url": "https://heatherwholeinvolve.com/lxhkkfy8uhpv",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 7",
-			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-			"url": "https://heatherwholeinvolve.com/10ek3hbwkx9x",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  },
-		  {
-			"name": "CAPITULO 8",
-			"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
-			"url": "https://heatherwholeinvolve.com/rn8dvur7kpmn",
-			"info": "[Español]",
-			"embed": "",
-			"isHost": "true",
-			"online": "true",
-			"userAgent": "PlusMediaPlayer/0.0.9",
-			"import": false
-		  }
-		]
-	  },
+[
+{
+"name": "Temporada 01",
+"image": "https://pics.filmaffinity.com/Asai_nos_ven_Miniserie_de_TV-652956599-large.jpg",
+"imageScale": "",
+"info": "",
+"stations": 
+[
+{
+"name": "CAPITULO 1",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/f1c7cgq9jzjx/1923-1x01",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/8tep5bxd7ix1/1923-1x02",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/yoc0p53rnld9/1923-1x03",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/vulyixecn6x8/1923-1x04",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 5",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/kd5dxwpmgpxz/1923-1x05",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 6",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/n9lhhf3kx61n/1923-1x06",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 7",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/z7ebgv06r6gu/1923-1x07",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 8",
+"image": "https://pics.filmaffinity.com/1923-614554373-large.jpg",
+"url": "http://bysesayeveum.com/d/ygg2t67g2j0t/1923-1x08-fin,1923 1x08 (Fin)",
+"info": "[Español][2022]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+]
+},
 	  {
 		"name": "Temporada 02",
 		"image": "https://images.justwatch.com/poster/326922545/s718/temporada-2.jpg",
